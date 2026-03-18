@@ -1,63 +1,82 @@
-**AI / Machine Learning Course Repository**
+# AI / ML Course Repository
 
-This repository showcases my work and progress throughout an AI/ML training program, including coursework, and practice exercises. It is designed to keep all learning materials organized while demonstrating practical understanding of key concepts in Artificial Intelligence and Machine Learning.
+<p align="center">
+  <b> Hands-on learning journey in AI, Machine Learning, and Data Analysis</b>
+</p>
 
-**📚 Program Overview**
+---
 
-This training focuses on building a strong foundation in data-driven problem solving and machine learning through hands-on practice.
+## 📌 Overview
 
-**🔍 Core Learning Areas**
+This repository showcases my work and progress throughout an **AI/ML training program**, including coursework and practice exercises.
 
-Python programming for AI/ML
+It is designed to keep all learning materials organized while demonstrating a **practical understanding of key concepts** in Artificial Intelligence and Machine Learning.
 
-Data analysis and preprocessing
+---
 
-Exploratory Data Analysis (EDA)
+## 📚 Program Overview
 
-Statistical methods and hypothesis testing
+This training focuses on building a strong foundation in **data-driven problem solving** and **machine learning** through hands-on practice.
 
-Machine learning fundamentals
+---
 
-Practical assignments and mini projects
+## 🔍 Core Learning Areas
 
-**📂 Repository Structure**
+- 🐍 Python Programming for AI/ML  
+- 📊 Data Analysis & Preprocessing  
+- 🔎 Exploratory Data Analysis (EDA)  
+- 📈 Statistical Methods & Hypothesis Testing  
+- 🤖 Machine Learning Fundamentals  
+- 🧪 Practical Assignments & Mini Projects  
+
+---
+
+## 📂 Repository Structure
+```
 AI-ML-Course/
 │
-├── NAVTTC/
-│   └── Tasks and coursework based on NAVTTC outline
+├── 📁 NAVTTC/
+│ └── Tasks and coursework based on NAVTTC outline
 │
-├── NetSol/
-│   └── Practice tasks and assignments provided by instructors
+├── 📁 NetSol/
+│ └── Practice tasks and assignments provided by instructors
 │
 └── README.md
+```
 
-**📁 Folder Description**
-NAVTTC
-Contains tasks and coursework based on the official NAVTTC course outline.
+---
 
-NetSol
-Practice tasks and assignments provided by instructors
+## 📁 Folder Description
 
-**🎯 Purpose**
+### 📌 NAVTTC
+Contains tasks and coursework based on the official **NAVTTC course outline**.
 
-Track learning progress in a structured way
+### 📌 NetSol
+Includes practice tasks and assignments provided by instructors during the training.
 
-Practice real-world data analysis and ML workflows
+---
 
-Strengthen understanding through hands-on implementation
+## 🎯 Purpose
 
-Build a portfolio of applied AI/ML work
+✔ Track learning progress in a structured way  
+✔ Practice real-world data analysis and ML workflows  
+✔ Strengthen understanding through hands-on implementation  
+✔ Build a portfolio of applied AI/ML work  
 
-**🛠️ Tools & Technologies**
+---
 
-Python
+## 🛠️ Tools & Technologies
 
-Jupyter Notebook
 
-NumPy & Pandas
+- Python 🐍  
+- Jupyter Notebook  
+- NumPy & Pandas  
+- Matplotlib & Seaborn  
+- Scikit-learn  
+- SciPy / Statsmodels  
 
-Matplotlib & Seaborn
+---
 
-Scikit-learn
 
-SciPy / Statsmodels
+
+
